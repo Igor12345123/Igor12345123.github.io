@@ -1,0 +1,21 @@
+* {
+	padding: 0 0 10px 10px;
+	margin: 0;
+	box-sizing:border-box;
+}
+body {
+	background-color:#bbe1fa;
+}
+main {
+	width:60%;
+	margin:auto;
+	padding:60px;
+	background-color:#bbded6;
+}
+
+.image {
+	width:100px;
+	height:60px;
+	margin:10px;
+	background-color:orange;
+}

@@ -1,0 +1,62 @@
+* {
+	padding: 0 0 10px 10px;
+	margin: 0;
+	box-sizing:border-box;
+}
+body {
+	background-color:#bbe1fa;
+	font-size:50px;
+	font-family:"Chiller", sans-serif;
+}
+main {
+	width:60%;
+	margin:auto;
+	padding:60px;
+	background-color:#f1f1f6;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.image {
+	width:calc(50% - 40px);
+	height:calc((35vw - 40px) / 16 * 9);
+	margin:10px;
+	background-color:orange;
+	background-position:center;
+	background-size:cover;
+}
+h1 {
+	width:100%;
+	text-align:center;
+	font-size:40px;
+}
+.image1 {
+	background-image: url(../img/img6.jpg);
+}
+.image2 {
+	background-image: url(../img/img7.jpg);
+}
+.image3 {
+	background-image: url(../img/img1.jpg);
+}
+.image4 {
+	background-image: url(../img/img10.jpg)
+}
+.image5 {
+	background-image: url(../img/img2.jpg);
+}
+.image6 {
+	background-image: url(../img/img9.jpg);
+}
+.image7 {
+	background-image: url(../img/img8.jpg);
+}
+.image8 {
+	background-image: url(../img/img4.jpg);
+}
+.image9 {
+	background-image: url(../img/img3.jpg);
+}
+.image10 {
+	background-image: url(../img/img5.jpg);
+}
